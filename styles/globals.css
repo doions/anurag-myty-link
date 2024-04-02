@@ -32,4 +32,40 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h1,
+.container h2 {
+  color: #333;
+}
+
+.container h2 {
+  margin-top: 20px;
+}
+
+.container p {
+  line-height: 1.5;
+}
+
+.container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.container ul li {
+  margin-bottom: 5px;
+}
+
+.container .skills {
+  font-weight: bold;
+}
+
+.container .hobbies {
+  font-style: italic;
 }
