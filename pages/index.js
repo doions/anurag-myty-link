@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Anurag Jain - Resume</title>
         <meta name="description" content="Anurag Jain's Resume" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/croodlesNeutral-1712043122554.ico" />
       </Head>
 
       <main>
